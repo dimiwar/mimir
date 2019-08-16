@@ -16,8 +16,11 @@ For network based IOCs, Mimir gathers basic information including:
 * Passive DNS
 
 ### Collection Sources
+Some of these sources will require an API key, and occassionally only by getting a paid account. I've tried to limit reliance on paid services as much as possible.
+
 * PassiveTotal
 * VirusTotal
+* DomainTools
 * OPSWAT
 * Google SafeBrowsing
 * Shodan

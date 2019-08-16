@@ -31,6 +31,7 @@ For network based IOCs, Mimir gathers basic information including:
 ### Risk Scoring
 The risk scoring works best when Mimir can gather a decent amount of data points for an IOC; pDNS, well populated url/domain results (communicating samples, associated samples, recent scan data, etc.) and also takes into account the ML malicious-ness prediction result. 
 
+### Machine Learning Predictions
 The machine learning prediction results come from the CSIRT Gadgets projects csirtg-domainsml-py, csirtg-ipsml-py, csirtg-urlsml-py.
 
 ### Output

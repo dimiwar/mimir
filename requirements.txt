@@ -4,7 +4,7 @@ whois==0.7
 configparser==3.7.1
 requests==2.21.0
 dnspython==1.15.0
-urllib3==1.24.1
+urllib3==1.25.3
 pymisp==2.4.112
 threatconnect==2.4.21
 maxminddb==1.4.1

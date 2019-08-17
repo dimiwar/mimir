@@ -1,0 +1,14 @@
+spam-list==1.0.0
+validators==0.12.4
+whois==0.7
+configparser==3.7.1
+requests==2.21.0
+dnspython==1.15.0
+urllib3==1.24.1
+pymisp==2.4.112
+threatconnect==2.4.21
+maxminddb==1.4.1
+lxml==4.2.6
+colorama==0.4.1
+Pygments==2.3.1
+shodan==1.13.0

@@ -1,3 +1,8 @@
+![logo](https://github.com/deadbits/mimir/raw/master/mimir/data/extra/logo/mimir-logo.png "Mimir")  
+- ![Release](https://img.shields.io/badge/Release-Beta-blue.svg)
+- ![Version](https://img.shields.io/badge/Version-v1.0.1--beta-orange.svg)
+
+
 # Mimir
 Smart OSINT collection of common IOC types.
 

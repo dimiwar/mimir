@@ -1,5 +1,5 @@
 spam-list==1.0.0
-validators==0.12.4
+validators==0.12.6
 whois==0.7
 configparser==3.7.1
 requests==2.21.0
